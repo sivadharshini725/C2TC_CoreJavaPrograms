@@ -11,7 +11,7 @@ public class EncapsulationDemo {
 		obj.setSerialNum(95);
 		System.out.println(obj);
 		
+	}
+}
 
-	}
-	}
 
